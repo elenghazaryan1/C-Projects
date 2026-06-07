@@ -2,9 +2,15 @@
 
 This repository contains my C language projects.
 
-## Chat App
-- clientt.c
-- serverr.c
+---
+
+## Chat App (Socket Programming)
+
+- `clientt.c`
+- `serverr.c`
+
+---
 
 ## About
-Simple socket-based client-server communication project.
+
+Simple client-server communication project written in C using sockets.
